@@ -1,4 +1,4 @@
-﻿using CodeConvention.ApiTraining.Applications;
+﻿using CodeConvention.ApiTraining.Services;
 using NUnit.Framework;
 
 namespace CodeConvention.ApiTraining.Tests

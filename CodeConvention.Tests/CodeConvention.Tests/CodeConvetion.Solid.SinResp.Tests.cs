@@ -1,6 +1,6 @@
 ﻿using System;
 using System.IO;
-using CodeConvention.Solid.SinResp.Applications;
+using CodeConvention.Solid.SinResp.Services;
 using CodeConvention.Solid.SinResp.Models;
 using NUnit.Framework;
 
@@ -8,11 +8,6 @@ namespace CodeConvetion.Solid.sinResp.Tests
 {
     public class SingleResponsibilityTests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
         [Test]
         public void WorkReportEntries()
         {

@@ -6,11 +6,6 @@ namespace CodeConvetion.Solid.DepInject.Tests
 {
     public class DependencyInjectionTests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
         [Test]
         public void CountFemaleManagers()
         {
