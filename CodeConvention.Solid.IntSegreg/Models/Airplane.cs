@@ -13,10 +13,7 @@ namespace CodeConvention.Solid.IntSegreg.Models
         //    throw new NotImplementedException();
         //}
 
-        public void Fly()
-        {
-            //actions to fly a plane
-            Console.WriteLine("Flying a plane");
-        }
+        public string Fly() => "Flying a plane";
+
     }
 }

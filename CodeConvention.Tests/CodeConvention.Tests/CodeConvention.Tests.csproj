@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\CodeConvention.ApiTraining\CodeConvention.ApiTraining.csproj" />
+    <ProjectReference Include="..\..\CodeConvention.Solid.IntSegreg\CodeConvention.Solid.IntSegreg.csproj" />
     <ProjectReference Include="..\..\CodeConvention.Solid.OpenClos\CodeConvention.Solid.OpenClos.csproj" />
     <ProjectReference Include="..\..\CodeConvention.Solid.SinResp\CodeConvention.Solid.SinResp.csproj" />
     <ProjectReference Include="..\..\CodeConvetion.Solid.DepInject\CodeConvetion.Solid.DepInject.csproj" />

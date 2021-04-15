@@ -7,11 +7,7 @@ namespace CodeConvention.Solid.IntSegreg.Models
     //public class Car : IVehicle
     public class Car : ICar
     {
-        public void Drive()
-        {
-            //actions to drive a car
-            Console.WriteLine("Driving a car");
-        }
+        public string Drive() => "Driving a car";
 
         // 1) That is a bad idea because we should be writing our code to do something and not just to throw exceptions.
         //public void Fly()

@@ -22,13 +22,13 @@ namespace CodeConvention.Solid.IntSegreg.Models
             _car = car;
             _airplane = airplane;
         }
-        public void Drive()
+        public string Drive()
         {
-            _car.Drive();
+            return _car.Drive();
         }
-        public void Fly()
+        public string Fly()
         {
-            _airplane.Fly();
+            return _airplane.Fly();
         }
     }
 }
