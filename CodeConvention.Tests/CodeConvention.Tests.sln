@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeConvention.Solid.IntSeg
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeConvention.ApiTraining", "..\CodeConvention.ApiTraining\CodeConvention.ApiTraining.csproj", "{DF713D5B-8BA8-481E-AF26-956E5AE3812D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeConvention.Solid.OpenClos", "..\CodeConvention.Solid.OpenClos\CodeConvention.Solid.OpenClos.csproj", "{2D6D1278-86F4-4CB8-8563-BAAB0484A906}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeConvention.Solid.OpenClos", "..\CodeConvention.Solid.OpenClos\CodeConvention.Solid.OpenClos.csproj", "{2D6D1278-86F4-4CB8-8563-BAAB0484A906}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeConvention.Solid.LiskSubs", "..\CodeConvention.Solid.LiskSubs\CodeConvention.Solid.LiskSubs.csproj", "{EA76EC2A-0056-4FA6-B3B7-B001C5D3090E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{2D6D1278-86F4-4CB8-8563-BAAB0484A906}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D6D1278-86F4-4CB8-8563-BAAB0484A906}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D6D1278-86F4-4CB8-8563-BAAB0484A906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA76EC2A-0056-4FA6-B3B7-B001C5D3090E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA76EC2A-0056-4FA6-B3B7-B001C5D3090E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA76EC2A-0056-4FA6-B3B7-B001C5D3090E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA76EC2A-0056-4FA6-B3B7-B001C5D3090E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
