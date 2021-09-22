@@ -1,0 +1,9 @@
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeConvention.CustomExceptions\bin\Debug\netcoreapp3.1\CodeConvention.CustomExceptions.deps.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeConvention.CustomExceptions\bin\Debug\netcoreapp3.1\CodeConvention.CustomExceptions.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeConvention.CustomExceptions\bin\Debug\netcoreapp3.1\CodeConvention.CustomExceptions.pdb
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeConvention.CustomExceptions\obj\Debug\netcoreapp3.1\CodeConvention.CustomExceptions.csprojAssemblyReference.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeConvention.CustomExceptions\obj\Debug\netcoreapp3.1\CodeConvention.CustomExceptions.AssemblyInfoInputs.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeConvention.CustomExceptions\obj\Debug\netcoreapp3.1\CodeConvention.CustomExceptions.AssemblyInfo.cs
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeConvention.CustomExceptions\obj\Debug\netcoreapp3.1\CodeConvention.CustomExceptions.csproj.CoreCompileInputs.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeConvention.CustomExceptions\obj\Debug\netcoreapp3.1\CodeConvention.CustomExceptions.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeConvention.CustomExceptions\obj\Debug\netcoreapp3.1\CodeConvention.CustomExceptions.pdb

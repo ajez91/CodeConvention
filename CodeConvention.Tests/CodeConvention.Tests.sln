@@ -15,7 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeConvention.ApiTraining"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeConvention.Solid.OpenClos", "..\CodeConvention.Solid.OpenClos\CodeConvention.Solid.OpenClos.csproj", "{2D6D1278-86F4-4CB8-8563-BAAB0484A906}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeConvention.Solid.LiskSubs", "..\CodeConvention.Solid.LiskSubs\CodeConvention.Solid.LiskSubs.csproj", "{EA76EC2A-0056-4FA6-B3B7-B001C5D3090E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeConvention.Solid.LiskSubs", "..\CodeConvention.Solid.LiskSubs\CodeConvention.Solid.LiskSubs.csproj", "{EA76EC2A-0056-4FA6-B3B7-B001C5D3090E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeConvention.LazyLoding", "..\CodeConvention.LazyLoding\CodeConvention.LazyLoding.csproj", "{5A877AB8-FC01-4C32-A9E9-C9710F90BB58}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeConvention.CustomExceptions", "CodeConvention.CustomExceptions\CodeConvention.CustomExceptions.csproj", "{C5EDC006-8971-4870-A828-39E1619CAF28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCovention.Delegates", "CodeCovention.Delegates\CodeCovention.Delegates.csproj", "{6BAF9788-2AEA-4778-8A3C-ED4C8CC8BE51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{EA76EC2A-0056-4FA6-B3B7-B001C5D3090E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA76EC2A-0056-4FA6-B3B7-B001C5D3090E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA76EC2A-0056-4FA6-B3B7-B001C5D3090E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A877AB8-FC01-4C32-A9E9-C9710F90BB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A877AB8-FC01-4C32-A9E9-C9710F90BB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A877AB8-FC01-4C32-A9E9-C9710F90BB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A877AB8-FC01-4C32-A9E9-C9710F90BB58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5EDC006-8971-4870-A828-39E1619CAF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5EDC006-8971-4870-A828-39E1619CAF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5EDC006-8971-4870-A828-39E1619CAF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5EDC006-8971-4870-A828-39E1619CAF28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAF9788-2AEA-4778-8A3C-ED4C8CC8BE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAF9788-2AEA-4778-8A3C-ED4C8CC8BE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAF9788-2AEA-4778-8A3C-ED4C8CC8BE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAF9788-2AEA-4778-8A3C-ED4C8CC8BE51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

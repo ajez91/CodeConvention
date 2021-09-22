@@ -1,0 +1,13 @@
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeCovention.Delegates\bin\Debug\netcoreapp3.1\CodeCovention.Delegates.exe
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeCovention.Delegates\bin\Debug\netcoreapp3.1\CodeCovention.Delegates.deps.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeCovention.Delegates\bin\Debug\netcoreapp3.1\CodeCovention.Delegates.runtimeconfig.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeCovention.Delegates\bin\Debug\netcoreapp3.1\CodeCovention.Delegates.runtimeconfig.dev.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeCovention.Delegates\bin\Debug\netcoreapp3.1\CodeCovention.Delegates.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeCovention.Delegates\bin\Debug\netcoreapp3.1\CodeCovention.Delegates.pdb
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeCovention.Delegates\obj\Debug\netcoreapp3.1\CodeCovention.Delegates.AssemblyInfoInputs.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeCovention.Delegates\obj\Debug\netcoreapp3.1\CodeCovention.Delegates.AssemblyInfo.cs
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeCovention.Delegates\obj\Debug\netcoreapp3.1\CodeCovention.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeCovention.Delegates\obj\Debug\netcoreapp3.1\CodeCovention.Delegates.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeCovention.Delegates\obj\Debug\netcoreapp3.1\CodeCovention.Delegates.pdb
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeCovention.Delegates\obj\Debug\netcoreapp3.1\CodeCovention.Delegates.genruntimeconfig.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Tests\CodeCovention.Delegates\obj\Debug\netcoreapp3.1\CodeCovention.Delegates.csprojAssemblyReference.cache

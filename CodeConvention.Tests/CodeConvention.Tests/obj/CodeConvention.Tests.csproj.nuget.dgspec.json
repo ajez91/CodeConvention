@@ -1,0 +1,594 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Tests\\CodeConvention.Tests\\CodeConvention.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.ApiTraining\\CodeConvention.ApiTraining.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.ApiTraining\\CodeConvention.ApiTraining.csproj",
+        "projectName": "CodeConvention.ApiTraining",
+        "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.ApiTraining\\CodeConvention.ApiTraining.csproj",
+        "packagesPath": "C:\\Users\\ajeze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.ApiTraining\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ajeze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/naturessunshine/_packaging/synergy-ww-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.LazyLoding\\CodeConvention.LazyLoding.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.LazyLoding\\CodeConvention.LazyLoding.csproj",
+        "projectName": "CodeConvention.LazyLoding",
+        "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.LazyLoding\\CodeConvention.LazyLoding.csproj",
+        "packagesPath": "C:\\Users\\ajeze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.LazyLoding\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ajeze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/naturessunshine/_packaging/synergy-ww-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.IntSegreg\\CodeConvention.Solid.IntSegreg.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.IntSegreg\\CodeConvention.Solid.IntSegreg.csproj",
+        "projectName": "CodeConvention.Solid.IntSegreg",
+        "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.IntSegreg\\CodeConvention.Solid.IntSegreg.csproj",
+        "packagesPath": "C:\\Users\\ajeze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.IntSegreg\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ajeze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/naturessunshine/_packaging/synergy-ww-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.LiskSubs\\CodeConvention.Solid.LiskSubs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.LiskSubs\\CodeConvention.Solid.LiskSubs.csproj",
+        "projectName": "CodeConvention.Solid.LiskSubs",
+        "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.LiskSubs\\CodeConvention.Solid.LiskSubs.csproj",
+        "packagesPath": "C:\\Users\\ajeze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.LiskSubs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ajeze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/naturessunshine/_packaging/synergy-ww-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.OpenClos\\CodeConvention.Solid.OpenClos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.OpenClos\\CodeConvention.Solid.OpenClos.csproj",
+        "projectName": "CodeConvention.Solid.OpenClos",
+        "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.OpenClos\\CodeConvention.Solid.OpenClos.csproj",
+        "packagesPath": "C:\\Users\\ajeze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.OpenClos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ajeze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/naturessunshine/_packaging/synergy-ww-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.SinResp\\CodeConvention.Solid.SinResp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.SinResp\\CodeConvention.Solid.SinResp.csproj",
+        "projectName": "CodeConvention.Solid.SinResp",
+        "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.SinResp\\CodeConvention.Solid.SinResp.csproj",
+        "packagesPath": "C:\\Users\\ajeze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.SinResp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ajeze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/naturessunshine/_packaging/synergy-ww-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Tests\\CodeConvention.CustomExceptions\\CodeConvention.CustomExceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Tests\\CodeConvention.CustomExceptions\\CodeConvention.CustomExceptions.csproj",
+        "projectName": "CodeConvention.CustomExceptions",
+        "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Tests\\CodeConvention.CustomExceptions\\CodeConvention.CustomExceptions.csproj",
+        "packagesPath": "C:\\Users\\ajeze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Tests\\CodeConvention.CustomExceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ajeze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/naturessunshine/_packaging/synergy-ww-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Tests\\CodeConvention.Tests\\CodeConvention.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Tests\\CodeConvention.Tests\\CodeConvention.Tests.csproj",
+        "projectName": "CodeConvention.Tests",
+        "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Tests\\CodeConvention.Tests\\CodeConvention.Tests.csproj",
+        "packagesPath": "C:\\Users\\ajeze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Tests\\CodeConvention.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ajeze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/naturessunshine/_packaging/synergy-ww-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.ApiTraining\\CodeConvention.ApiTraining.csproj": {
+                "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.ApiTraining\\CodeConvention.ApiTraining.csproj"
+              },
+              "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.LazyLoding\\CodeConvention.LazyLoding.csproj": {
+                "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.LazyLoding\\CodeConvention.LazyLoding.csproj"
+              },
+              "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.IntSegreg\\CodeConvention.Solid.IntSegreg.csproj": {
+                "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.IntSegreg\\CodeConvention.Solid.IntSegreg.csproj"
+              },
+              "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.LiskSubs\\CodeConvention.Solid.LiskSubs.csproj": {
+                "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.LiskSubs\\CodeConvention.Solid.LiskSubs.csproj"
+              },
+              "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.OpenClos\\CodeConvention.Solid.OpenClos.csproj": {
+                "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.OpenClos\\CodeConvention.Solid.OpenClos.csproj"
+              },
+              "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.SinResp\\CodeConvention.Solid.SinResp.csproj": {
+                "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.SinResp\\CodeConvention.Solid.SinResp.csproj"
+              },
+              "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Tests\\CodeConvention.CustomExceptions\\CodeConvention.CustomExceptions.csproj": {
+                "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Tests\\CodeConvention.CustomExceptions\\CodeConvention.CustomExceptions.csproj"
+              },
+              "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvetion.Solid.DepInject\\CodeConvetion.Solid.DepInject.csproj": {
+                "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvetion.Solid.DepInject\\CodeConvetion.Solid.DepInject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvetion.Solid.DepInject\\CodeConvetion.Solid.DepInject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvetion.Solid.DepInject\\CodeConvetion.Solid.DepInject.csproj",
+        "projectName": "CodeConvetion.Solid.DepInject",
+        "projectPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvetion.Solid.DepInject\\CodeConvetion.Solid.DepInject.csproj",
+        "packagesPath": "C:\\Users\\ajeze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvetion.Solid.DepInject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ajeze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/naturessunshine/_packaging/synergy-ww-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

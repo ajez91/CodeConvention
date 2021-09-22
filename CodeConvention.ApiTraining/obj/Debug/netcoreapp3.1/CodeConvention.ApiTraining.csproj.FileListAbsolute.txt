@@ -1,0 +1,16 @@
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.ApiTraining\obj\Debug\netcoreapp3.1\CodeConvention.ApiTraining.csprojAssemblyReference.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.ApiTraining\obj\Debug\netcoreapp3.1\CodeConvention.ApiTraining.AssemblyInfoInputs.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.ApiTraining\obj\Debug\netcoreapp3.1\CodeConvention.ApiTraining.AssemblyInfo.cs
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.ApiTraining\obj\Debug\netcoreapp3.1\CodeConvention.ApiTraining.csproj.CoreCompileInputs.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.ApiTraining\bin\Debug\netcoreapp3.1\CodeConvention.ApiTraining.exe
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.ApiTraining\bin\Debug\netcoreapp3.1\CodeConvention.ApiTraining.deps.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.ApiTraining\bin\Debug\netcoreapp3.1\CodeConvention.ApiTraining.runtimeconfig.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.ApiTraining\bin\Debug\netcoreapp3.1\CodeConvention.ApiTraining.runtimeconfig.dev.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.ApiTraining\bin\Debug\netcoreapp3.1\CodeConvention.ApiTraining.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.ApiTraining\bin\Debug\netcoreapp3.1\CodeConvention.ApiTraining.pdb
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.ApiTraining\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.ApiTraining\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.ApiTraining\obj\Debug\netcoreapp3.1\CodeConvention.ApiTraining.csproj.CopyComplete
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.ApiTraining\obj\Debug\netcoreapp3.1\CodeConvention.ApiTraining.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.ApiTraining\obj\Debug\netcoreapp3.1\CodeConvention.ApiTraining.pdb
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.ApiTraining\obj\Debug\netcoreapp3.1\CodeConvention.ApiTraining.genruntimeconfig.cache

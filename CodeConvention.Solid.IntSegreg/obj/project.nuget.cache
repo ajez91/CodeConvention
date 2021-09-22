@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/tG+vDgFLFin9bkdDWtMO113RerQ6rXYr/Ka5TYSqhasd7PFUogMCao3kCGvmjcolXywtO8buGxjgUCKDXQ4fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.IntSegreg\\CodeConvention.Solid.IntSegreg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajeze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

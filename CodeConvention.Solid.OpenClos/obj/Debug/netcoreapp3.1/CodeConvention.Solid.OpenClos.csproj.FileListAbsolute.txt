@@ -1,0 +1,13 @@
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.OpenClos\obj\Debug\netcoreapp3.1\CodeConvention.Solid.OpenClos.csprojAssemblyReference.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.OpenClos\obj\Debug\netcoreapp3.1\CodeConvention.Solid.OpenClos.AssemblyInfoInputs.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.OpenClos\obj\Debug\netcoreapp3.1\CodeConvention.Solid.OpenClos.AssemblyInfo.cs
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.OpenClos\obj\Debug\netcoreapp3.1\CodeConvention.Solid.OpenClos.csproj.CoreCompileInputs.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.OpenClos\bin\Debug\netcoreapp3.1\CodeConvention.Solid.OpenClos.exe
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.OpenClos\bin\Debug\netcoreapp3.1\CodeConvention.Solid.OpenClos.deps.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.OpenClos\bin\Debug\netcoreapp3.1\CodeConvention.Solid.OpenClos.runtimeconfig.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.OpenClos\bin\Debug\netcoreapp3.1\CodeConvention.Solid.OpenClos.runtimeconfig.dev.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.OpenClos\bin\Debug\netcoreapp3.1\CodeConvention.Solid.OpenClos.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.OpenClos\bin\Debug\netcoreapp3.1\CodeConvention.Solid.OpenClos.pdb
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.OpenClos\obj\Debug\netcoreapp3.1\CodeConvention.Solid.OpenClos.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.OpenClos\obj\Debug\netcoreapp3.1\CodeConvention.Solid.OpenClos.pdb
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.OpenClos\obj\Debug\netcoreapp3.1\CodeConvention.Solid.OpenClos.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k8GFj1FCqPCRvTELZuNSBl8mwTL0Kys1RDWOlIaf7yD/S68q1O4CLIcdNsAY+57kyU4sDUsTH0gIyDyWXKTYjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Tests\\CodeCovention.Delegates\\CodeCovention.Delegates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajeze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

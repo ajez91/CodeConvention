@@ -1,0 +1,13 @@
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.IntSegreg\obj\Debug\netcoreapp3.1\CodeConvention.Solid.IntSegreg.AssemblyInfoInputs.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.IntSegreg\obj\Debug\netcoreapp3.1\CodeConvention.Solid.IntSegreg.AssemblyInfo.cs
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.IntSegreg\obj\Debug\netcoreapp3.1\CodeConvention.Solid.IntSegreg.csproj.CoreCompileInputs.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.IntSegreg\bin\Debug\netcoreapp3.1\CodeConvention.Solid.IntSegreg.exe
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.IntSegreg\bin\Debug\netcoreapp3.1\CodeConvention.Solid.IntSegreg.deps.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.IntSegreg\bin\Debug\netcoreapp3.1\CodeConvention.Solid.IntSegreg.runtimeconfig.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.IntSegreg\bin\Debug\netcoreapp3.1\CodeConvention.Solid.IntSegreg.runtimeconfig.dev.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.IntSegreg\bin\Debug\netcoreapp3.1\CodeConvention.Solid.IntSegreg.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.IntSegreg\bin\Debug\netcoreapp3.1\CodeConvention.Solid.IntSegreg.pdb
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.IntSegreg\obj\Debug\netcoreapp3.1\CodeConvention.Solid.IntSegreg.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.IntSegreg\obj\Debug\netcoreapp3.1\CodeConvention.Solid.IntSegreg.pdb
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.IntSegreg\obj\Debug\netcoreapp3.1\CodeConvention.Solid.IntSegreg.genruntimeconfig.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.IntSegreg\obj\Debug\netcoreapp3.1\CodeConvention.Solid.IntSegreg.csprojAssemblyReference.cache

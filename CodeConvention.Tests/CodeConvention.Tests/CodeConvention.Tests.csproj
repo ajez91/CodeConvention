@@ -14,11 +14,19 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\CodeConvention.ApiTraining\CodeConvention.ApiTraining.csproj" />
+    <ProjectReference Include="..\..\CodeConvention.LazyLoding\CodeConvention.LazyLoding.csproj" />
     <ProjectReference Include="..\..\CodeConvention.Solid.IntSegreg\CodeConvention.Solid.IntSegreg.csproj" />
     <ProjectReference Include="..\..\CodeConvention.Solid.LiskSubs\CodeConvention.Solid.LiskSubs.csproj" />
     <ProjectReference Include="..\..\CodeConvention.Solid.OpenClos\CodeConvention.Solid.OpenClos.csproj" />
     <ProjectReference Include="..\..\CodeConvention.Solid.SinResp\CodeConvention.Solid.SinResp.csproj" />
     <ProjectReference Include="..\..\CodeConvetion.Solid.DepInject\CodeConvetion.Solid.DepInject.csproj" />
+    <ProjectReference Include="..\CodeConvention.CustomExceptions\CodeConvention.CustomExceptions.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="anteny.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

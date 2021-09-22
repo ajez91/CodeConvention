@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rYCEe+SKzyU6bTSZpum5/4Tjvi+q6OsOtBTx+4k/KoyiLUEsPPCujgNacboaEyNTELJrcy4t8OiBuCVZSoAi1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvetion.Solid.DepInject\\CodeConvetion.Solid.DepInject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajeze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

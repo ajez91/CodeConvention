@@ -1,0 +1,13 @@
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.LazyLoding\bin\Debug\netcoreapp3.1\CodeConvention.LazyLoding.exe
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.LazyLoding\bin\Debug\netcoreapp3.1\CodeConvention.LazyLoding.deps.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.LazyLoding\bin\Debug\netcoreapp3.1\CodeConvention.LazyLoding.runtimeconfig.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.LazyLoding\bin\Debug\netcoreapp3.1\CodeConvention.LazyLoding.runtimeconfig.dev.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.LazyLoding\bin\Debug\netcoreapp3.1\CodeConvention.LazyLoding.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.LazyLoding\bin\Debug\netcoreapp3.1\CodeConvention.LazyLoding.pdb
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.LazyLoding\obj\Debug\netcoreapp3.1\CodeConvention.LazyLoding.csprojAssemblyReference.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.LazyLoding\obj\Debug\netcoreapp3.1\CodeConvention.LazyLoding.AssemblyInfoInputs.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.LazyLoding\obj\Debug\netcoreapp3.1\CodeConvention.LazyLoding.AssemblyInfo.cs
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.LazyLoding\obj\Debug\netcoreapp3.1\CodeConvention.LazyLoding.csproj.CoreCompileInputs.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.LazyLoding\obj\Debug\netcoreapp3.1\CodeConvention.LazyLoding.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.LazyLoding\obj\Debug\netcoreapp3.1\CodeConvention.LazyLoding.pdb
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.LazyLoding\obj\Debug\netcoreapp3.1\CodeConvention.LazyLoding.genruntimeconfig.cache

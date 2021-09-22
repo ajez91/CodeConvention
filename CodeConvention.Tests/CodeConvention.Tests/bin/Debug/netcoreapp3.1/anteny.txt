@@ -1,0 +1,39 @@
+UBIQUITI AirFiber 60 - 
+batna24.com
+
+unifi
+design center
+link.ui.com
+
+airmax.pl
+jak oni to robią?!
+
+
+na ile domow?
+w jakim zasiegu?
+jakie predkosci?
+ile sasiadow maksymalnie?
+czy panstwo stawiaja jakas antene na mojej posesji?
+
+
+
+
+
+antena modułowa mimosa ns-x16
+
+
+Antena nadawcza:
+
+
+
+
+
+Antena odbiorcza u klienta? NIE
+Jest trójnik na światłowodzie i indywidualna instalacja
+
+
+https://itfocus.pl/dzial-it/sieci/bezplatne-planowanie-sieci-wi-fi/
+
+interline.pl/pl
+https://unifi-network.ui.com/dreammachine
+https://www.senetic.com/gfx/products/files/RocketDish_RD_5G31_AC_DS.pdf

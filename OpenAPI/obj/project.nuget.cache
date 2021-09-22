@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xWOgfRe5Wr7C0vS5L9MvjjinwV6wAudQUXOzAhG7bRCRH+tfart6VwoH/ypbSw+Xe3UHIXKLPXp23X6WPhfLbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\OpenAPI\\OpenAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajeze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

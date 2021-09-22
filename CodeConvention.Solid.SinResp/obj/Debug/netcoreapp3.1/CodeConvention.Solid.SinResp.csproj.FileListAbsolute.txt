@@ -1,0 +1,13 @@
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.SinResp\obj\Debug\netcoreapp3.1\CodeConvention.Solid.SinResp.csprojAssemblyReference.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.SinResp\obj\Debug\netcoreapp3.1\CodeConvention.Solid.SinResp.AssemblyInfoInputs.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.SinResp\obj\Debug\netcoreapp3.1\CodeConvention.Solid.SinResp.AssemblyInfo.cs
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.SinResp\obj\Debug\netcoreapp3.1\CodeConvention.Solid.SinResp.csproj.CoreCompileInputs.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.SinResp\bin\Debug\netcoreapp3.1\CodeConvention.Solid.SinResp.exe
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.SinResp\bin\Debug\netcoreapp3.1\CodeConvention.Solid.SinResp.deps.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.SinResp\bin\Debug\netcoreapp3.1\CodeConvention.Solid.SinResp.runtimeconfig.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.SinResp\bin\Debug\netcoreapp3.1\CodeConvention.Solid.SinResp.runtimeconfig.dev.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.SinResp\bin\Debug\netcoreapp3.1\CodeConvention.Solid.SinResp.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.SinResp\bin\Debug\netcoreapp3.1\CodeConvention.Solid.SinResp.pdb
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.SinResp\obj\Debug\netcoreapp3.1\CodeConvention.Solid.SinResp.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.SinResp\obj\Debug\netcoreapp3.1\CodeConvention.Solid.SinResp.pdb
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvention.Solid.SinResp\obj\Debug\netcoreapp3.1\CodeConvention.Solid.SinResp.genruntimeconfig.cache

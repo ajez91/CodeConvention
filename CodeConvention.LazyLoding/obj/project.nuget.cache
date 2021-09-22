@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0iT0CFOFpdyOdwooe+/rW+umIAtG9gJqzPmdLGX1WqfXgGRP9xHgJZYPIRNNovK2dv1q5OcLdnp+s33OJuiY8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.LazyLoding\\CodeConvention.LazyLoding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajeze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

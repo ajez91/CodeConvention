@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o5Mii0/+YuKtZo7LjilhLy2xXa6baVjUUVn9aCBnetYHm8wj0+wAhJO1n16rAP2VJNqnWiL9V7RAz57IakAS/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajeze\\Desktop\\CodeConvention\\CodeConvention.Solid.LiskSubs\\CodeConvention.Solid.LiskSubs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajeze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

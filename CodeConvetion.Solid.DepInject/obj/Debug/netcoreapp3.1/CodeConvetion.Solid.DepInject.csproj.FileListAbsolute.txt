@@ -1,0 +1,13 @@
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvetion.Solid.DepInject\obj\Debug\netcoreapp3.1\CodeConvetion.Solid.DepInject.csprojAssemblyReference.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvetion.Solid.DepInject\obj\Debug\netcoreapp3.1\CodeConvetion.Solid.DepInject.AssemblyInfoInputs.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvetion.Solid.DepInject\obj\Debug\netcoreapp3.1\CodeConvetion.Solid.DepInject.AssemblyInfo.cs
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvetion.Solid.DepInject\obj\Debug\netcoreapp3.1\CodeConvetion.Solid.DepInject.csproj.CoreCompileInputs.cache
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvetion.Solid.DepInject\bin\Debug\netcoreapp3.1\CodeConvetion.Solid.DepInject.exe
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvetion.Solid.DepInject\bin\Debug\netcoreapp3.1\CodeConvetion.Solid.DepInject.deps.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvetion.Solid.DepInject\bin\Debug\netcoreapp3.1\CodeConvetion.Solid.DepInject.runtimeconfig.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvetion.Solid.DepInject\bin\Debug\netcoreapp3.1\CodeConvetion.Solid.DepInject.runtimeconfig.dev.json
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvetion.Solid.DepInject\bin\Debug\netcoreapp3.1\CodeConvetion.Solid.DepInject.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvetion.Solid.DepInject\bin\Debug\netcoreapp3.1\CodeConvetion.Solid.DepInject.pdb
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvetion.Solid.DepInject\obj\Debug\netcoreapp3.1\CodeConvetion.Solid.DepInject.dll
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvetion.Solid.DepInject\obj\Debug\netcoreapp3.1\CodeConvetion.Solid.DepInject.pdb
+C:\Users\ajeze\Desktop\CodeConvention\CodeConvetion.Solid.DepInject\obj\Debug\netcoreapp3.1\CodeConvetion.Solid.DepInject.genruntimeconfig.cache
